@@ -42,17 +42,17 @@ public class CalculaIdade {
  * Aprendizado:
  * 
  * - Uso do Scanner para entrada de dados.
- * next() lê a próxima palavra até um espaço.
- * nextLine() lê uma linha completa de texto.
- * nextInt() lê um número inteiro.
- * close() fecha o Scanner após o uso para evitar vazamentos de recursos.
+ * - next() lê a próxima palavra até um espaço.
+ * - nextLine() lê uma linha completa de texto.
+ * - nextInt() lê um número inteiro.
+ * - close() fecha o Scanner após o uso para evitar vazamentos de recursos.
  * 
  * - Imprimindo mensagens no console.
- * print() imprime texto sem quebrar a linha.
- * println() imprime uma linha de texto e quebra a linha.
- * printf() imprime uma linha de texto e permite formatar strings com variáveis.
- * %s é usado como placeholder para strings.
- * %d é usado como placeholder para inteiros.
- * %n é usado para quebrar a linha.
- * 
+ * - print() imprime texto sem quebrar a linha.
+ * - println() imprime uma linha de texto e quebra a linha.
+ * - printf() imprime uma linha de texto e permite formatar strings com
+ * variáveis.
+ * - %s é usado como placeholder para strings.
+ * - %d é usado como placeholder para inteiros.
+ * - %n é usado para quebrar a linha.
  */
