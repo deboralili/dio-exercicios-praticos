@@ -60,6 +60,10 @@ public class CalculaIMC {
 
 /*
  * Aprendizado:
+ * - nextDouble() é um método da classe Scanner que lê a próxima entrada do
+ * usuário como um número de ponto flutuante (double).
+ * Double é um tipo de dado em Java que representa números de ponto flutuante
+ * de precisão dupla, ou seja, números que podem ter casas decimais.
  * - if é usado para executar um bloco de código se uma condição for verdadeira.
  * - else if é usado para testar uma nova condição se a condição anterior for
  * falsa.

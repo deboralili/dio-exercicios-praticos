@@ -81,4 +81,8 @@ public class IntervaloParImpar {
  * bloco de código.
  * - Uso de switch-case para executar diferentes blocos de código com base na
  * escolha do usuário.
+ * O break é usado para evitar a execução "fall-through".
+ * O default pode ser usado para tratar casos não previstos.
+ * - Uso do elvis operator (?:) para atribuir valores com base em uma condição.
+ * - Uso de loops for para iterar sobre um intervalo onde o indice é utilizado.
  */
