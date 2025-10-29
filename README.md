@@ -44,3 +44,13 @@ Abaixo está o acompanhamento do meu progresso no bootcamp, considerando a quant
 
 > 🔜 Novos módulos serão adicionados conforme avanço no bootcamp.
 
+## 📈 Evolução Contínua
+
+Cada exercício presente neste repositório representa um passo importante na minha jornada de evolução como profissional de tecnologia.  
+Mais do que aprender linguagens e ferramentas, este processo tem fortalecido meu raciocínio lógico, atenção aos detalhes e mentalidade 
+voltada à qualidade de software.
+
+Este repositório seguirá crescendo conforme novos desafios forem concluídos, refletindo não apenas o aprendizado técnico, mas também o 
+desenvolvimento de boas práticas e da mentalidade de melhoria contínua que todo profissional de QA e desenvolvimento precisa cultivar.
+
+> 💬 “Aprender é um processo contínuo — e cada linha de código é uma oportunidade de crescer.”
