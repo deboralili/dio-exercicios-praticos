@@ -32,3 +32,15 @@ Atualmente, o repositório contém os seguintes módulos concluídos:
 |**Estruturas de Controle em Java** | Prática com condicionais (`if`, `else`, `switch`) e laços de repetição (`for`, `while`, `do-while`). | [Acessar Projeto](https://github.com/deboralili/dio-exercicios-praticos/tree/main/estruturas-de-controle-em-java) |
 
 > 💡 A estrutura poderá ser ajustada conforme novos módulos e projetos forem adicionados.
+
+## 📊 Progresso Atual
+
+Abaixo está o acompanhamento do meu progresso no bootcamp, considerando a quantidade de exercícios concluídos em cada módulo:
+
+| Módulo | Exercícios Concluídos | Status |
+|--------|------------------------|---------|
+| **Fundamentos da Linguagem de Programação Java** | ✅ 4 / 4 | Concluído |
+| **Estruturas de Controle em Java** | ✅ 4 / 4 | Concluído |
+
+> 🔜 Novos módulos serão adicionados conforme avanço no bootcamp.
+
