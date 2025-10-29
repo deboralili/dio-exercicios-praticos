@@ -17,3 +17,18 @@ Este repositório tem como objetivo documentar minha jornada de aprendizado em *
 **Quality Assurance (QA)** através dos projetos práticos propostos no bootcamp.  
 Aqui estão reunidos os códigos, anotações e conceitos aprendidos ao longo dos módulos, 
 servindo como um portfólio de estudos e evolução técnica.
+
+## 🧩 Organização do Repositório
+
+Os exercícios estão organizados por módulo, seguindo a estrutura de aprendizado do bootcamp.  
+Cada módulo possui um projeto independente com seus próprios arquivos e um `README.md` específico, 
+onde estão descritos os exercícios realizados e os conceitos praticados.
+
+Atualmente, o repositório contém os seguintes módulos concluídos:
+
+| Módulo | Conteúdo Principal | Link |
+|--------|--------------------|------|
+|**Fundamentos da Linguagem de Programação Java** | Introdução à linguagem Java, variáveis, operadores e entrada/saída de dados. | [Acessar Projeto](https://github.com/deboralili/dio-exercicios-praticos/tree/main/fundamentos-da-linguagem-de-programacao-java) |
+|**Estruturas de Controle em Java** | Prática com condicionais (`if`, `else`, `switch`) e laços de repetição (`for`, `while`, `do-while`). | [Acessar Projeto](https://github.com/deboralili/dio-exercicios-praticos/tree/main/estruturas-de-controle-em-java) |
+
+> 💡 A estrutura poderá ser ajustada conforme novos módulos e projetos forem adicionados.
