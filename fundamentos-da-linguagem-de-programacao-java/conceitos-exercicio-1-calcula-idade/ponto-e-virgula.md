@@ -16,3 +16,21 @@ System.out.println(numero);
 ```
 
 Sem o `;`, o compilador não saberá onde uma instrução termina e a outra começa — resultando em erro de compilação.
+
+## ⚠️ Atenção
+
+Nem todas as linhas em Java terminam com `;`.<br/>
+**Blocos de código**, como os definidos por `{ }`, **não precisam** desse símbolo ao final.
+
+Exemplo:
+
+```
+if (numero > 5) {
+    System.out.println("Maior que 5");
+}
+```
+
+Observe que:
+
+* O `System.out.println` termina com `;`, pois é uma instrução.
+* O `if` e o bloco `{ }` não terminam com `;`, pois são estruturas de controle.
