@@ -82,3 +82,11 @@ br.com.minhaempresa.meuprojeto.pedido
 ```
 
 Isso evita conflitos de nome em projetos grandes e dá uma **identidade única** a cada pacote — mesmo que o mundo inteiro use o mesmo nome de classe. 🌍✨
+
+## 📚 Mais sobre o assunto
+
+Quer se aprofundar mais sobre pacotes em Java?
+
+Você pode consultar a **documentação oficial da Oracle**, que explica em detalhes como os pacotes funcionam e como organizar seus projetos de forma eficiente:
+
+🔗 [Documentação oficial — Packages (Oracle)](https://docs.oracle.com/javase/tutorial/java/package/index.html)
