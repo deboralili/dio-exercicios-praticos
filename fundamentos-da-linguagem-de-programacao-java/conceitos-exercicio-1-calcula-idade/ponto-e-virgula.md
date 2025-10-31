@@ -34,3 +34,8 @@ Observe que:
 
 * O `System.out.println` termina com `;`, pois é uma instrução.
 * O `if` e o bloco `{ }` não terminam com `;`, pois são estruturas de controle.
+
+## 💡 Curiosidade
+
+Em algumas linguagens, como Python, o ponto e vírgula é **opcional**.
+Mas em Java, ele é **obrigatório** para garantir clareza e precisão na leitura do código pelo compilador.
