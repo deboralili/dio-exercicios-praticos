@@ -39,3 +39,9 @@ Observe que:
 
 Em algumas linguagens, como Python, o ponto e vírgula é **opcional**.
 Mas em Java, ele é **obrigatório** para garantir clareza e precisão na leitura do código pelo compilador.
+
+## 📚 Mais sobre o assunto
+
+Quer se aprofundar mais sobre o uso do ponto e vírgula (`;`) em Java?
+
+🔗 [Semicolons in Java — JavaBook (MCCUE)](https://javabook.mccue.dev/first_steps/semicolon)
