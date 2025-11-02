@@ -35,3 +35,25 @@ Essas linhas não serão executadas enquanto estiverem dentro do comentário.
 
 > 💬 Observação </br> Você pode escrever comentários **com ou sem o asterisco (`*`) em cada linha** — ambos funcionam do mesmo jeito!
 </br> O uso dos `*` é apenas **uma convenção visual**, muito comum em códigos Java, para deixar o texto mais alinhado e fácil de ler.
+
+## ⚠️ Atenção
+
+Comentários **não devem substituir a clareza do código**.
+Eles servem para **explicar o “porquê”**, não o “como”.
+
+Por exemplo, em vez de:
+
+```
+// Soma dois números
+int resultado = a + b;
+```
+
+Prefira **nomes de variáveis e métodos claros**, e use comentários apenas quando o propósito não for óbvio.
+
+## 💡 Curiosidade
+
+Esse tipo de comentário existe em várias linguagens além do Java, como C, C++, JavaScript e CSS — todas com a mesma sintaxe `/* ... */`.
+
+## 📚 Mais sobre o assunto
+
+🔗 [Documentação oficial — Java Language Specification (Oracle)](https://docs.oracle.com/javase/specs/jls/se17/html/jls-3.html#jls-3.7)
