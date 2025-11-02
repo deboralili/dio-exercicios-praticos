@@ -1,0 +1,1 @@
+# 💬 Comentário de múltiplas linhas (`/* ... */`)
