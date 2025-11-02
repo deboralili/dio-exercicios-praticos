@@ -14,3 +14,32 @@ Resumindo:
 * Evita que você tenha que digitar o caminho completo de uma classe toda vez que for usá-la;
 * Facilita a **leitura e a manutenção** do código;
 * Permite **reaproveitar funcionalidades já existentes** em outras partes do projeto ou em bibliotecas externas.
+
+## ⚙️ Como funciona
+
+Quando você quer usar uma classe que **não está no mesmo pacote** do seu arquivo, precisa **importá-la**.
+
+Por exemplo, no exercício usamos o `Scanner`, que faz parte do pacote `java.util`.
+
+Para utilizá-lo, adicionamos no início do arquivo:
+
+```
+import java.util.Scanner;
+```
+
+Dessa forma você pode usar diretamente, sem precisar escrever o caminho completo toda vez.
+
+Sem o `import`:
+```
+java.util.Scanner scanner = new java.util.Scanner(System.in);
+```
+
+Com o `import`:
+
+```
+import java.util.Scanner;
+
+Scanner scanner = new Scanner(System.in);
+```
+
+Podemos ver que o código fica muito mais limpo e fácil de entender.
