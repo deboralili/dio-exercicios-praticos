@@ -15,11 +15,9 @@ Resumindo:
 * Facilita a **leitura e a manutenção** do código;
 * Permite **reaproveitar funcionalidades já existentes** em outras partes do projeto ou em bibliotecas externas.
 
-## ⚙️ Como funciona
+## 🧩 Exemplo prático
 
-Quando você quer usar uma classe que **não está no mesmo pacote** do seu arquivo, precisa **importá-la**.
-
-Por exemplo, no exercício usamos o `Scanner`, que faz parte do pacote `java.util`.
+No exercício usamos o `Scanner`, que faz parte do pacote `java.util`.
 
 Para utilizá-lo, adicionamos no início do arquivo:
 
@@ -35,7 +33,6 @@ java.util.Scanner scanner = new java.util.Scanner(System.in);
 ```
 
 Com o `import`:
-
 ```
 import java.util.Scanner;
 
