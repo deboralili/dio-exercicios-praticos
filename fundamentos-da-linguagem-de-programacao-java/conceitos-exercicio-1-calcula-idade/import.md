@@ -40,3 +40,24 @@ Scanner scanner = new Scanner(System.in);
 ```
 
 Podemos ver que o código fica muito mais limpo e fácil de entender.
+
+## 💡 Dica rápida
+
+Se você quiser **importar todas as classes** de um pacote de uma vez, pode usar o caractere `*` (asterisco).
+
+Por exemplo:
+
+```
+import java.util.*;
+```
+
+Isso importa **todas as classes** do pacote `java.util`, como `Scanner`, `ArrayList`, `List`, etc.
+
+💬 **Mas cuidado**: importar tudo pode deixar seu código menos eficiente e mais confuso, já que você pode acabar usando classes sem perceber de onde vieram.
+O ideal é **importar apenas o que for realmente necessário**.
+
+## 📚 Mais sobre o assunto
+
+Quer se aprofundar um pouco mais?
+
+🔗 [Documentação oficial da Oracle](https://docs.oracle.com/javase/tutorial/java/package/usepkgs.html)
