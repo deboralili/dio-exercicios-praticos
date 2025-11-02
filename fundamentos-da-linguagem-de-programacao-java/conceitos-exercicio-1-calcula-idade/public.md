@@ -30,3 +30,14 @@ CalculaIdade calcula = new CalculaIdade();
 ```
 
 Mas se a classe **não fosse pública**, ela só poderia ser acessada **dentro do mesmo pacote**.
+
+## 💡 Dica rápida
+
+* Use `public` quando quiser que uma classe, método ou variável **seja acessível de qualquer parte do código**.
+* Se quiser restringir o acesso, há outros modificadores como `private`, `protected` e o **padrão (sem palavra-chave)**.
+
+## 📚 Mais sobre o assunto
+
+Quer entender melhor os modificadores de acesso em Java?
+
+🔗 [Documentação oficial — Java Language Specification (Oracle)](https://docs.oracle.com/javase/specs/jls/se17/html/jls-6.html#jls-6.6)
