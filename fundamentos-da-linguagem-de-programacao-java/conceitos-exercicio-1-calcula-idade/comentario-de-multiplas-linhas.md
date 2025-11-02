@@ -56,4 +56,6 @@ Esse tipo de comentário existe em várias linguagens além do Java, como C, C++
 
 ## 📚 Mais sobre o assunto
 
+Quer se aprofundar um pouco mais?
+
 🔗 [Documentação oficial — Java Language Specification (Oracle)](https://docs.oracle.com/javase/specs/jls/se17/html/jls-3.html#jls-3.7)
