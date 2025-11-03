@@ -51,3 +51,20 @@ Resumindo o que há no exemplo:
 * `nome` e `idade` são atributos;
 * `apresentar()` é um método;
 * e `pessoa1` é um **objeto**, criado a partir da classe.
+
+## 💡 Dica rápida
+
+Em Java, é uma boa prática (e muitas vezes obrigatória) manter apenas uma classe pública por arquivo, e o nome da classe deve ser igual
+ao nome do arquivo.
+
+Por exemplo:
+* Arquivo: `Pessoa.java`
+* Classe: `public class Pessoa`
+
+Isso ajuda o compilador e outros desenvolvedores a encontrarem o código facilmente.
+
+## 📚 Mais sobre o assunto
+
+Quer se aprofundar mais?
+
+🔗 [Documentação oficial — Classes (Oracle)](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
