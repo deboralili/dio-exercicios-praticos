@@ -9,3 +9,45 @@ Em outras palavras, uma classe é como **a planta de uma casa**: ela define o fo
 quando você cria uma **instância** dessa classe.
 
 Por exemplo, se tivermos uma classe `Pessoa`, podemos criar vários objetos do tipo `Pessoa`, cada um com seus próprios valores (nome, idade, etc).
+
+## 🧩 Exemplo prático
+
+Vamos ver essa classe `Pessoa`:
+
+```
+public class Pessoa {
+    // Atributos (características)
+    String nome;
+    int idade;
+
+    // Método (comportamento)
+    void apresentar() {
+        System.out.println("Olá, meu nome é " + nome + " e tenho " + idade + " anos.");
+    }
+}
+```
+
+Para usar essa classe fazemos o seguinte:
+
+```
+public class Main {
+    public static void main(String[] args) {
+        Pessoa pessoa1 = new Pessoa();
+        pessoa1.nome = "Fulano";
+        pessoa1.idade = 25;
+        pessoa1.apresentar();
+    }
+}
+```
+
+A saída será assim:
+
+```
+Olá, meu nome é Fulano e tenho 25 anos.
+```
+
+Resumindo o que há no exemplo:
+* `Pessoa` é a classe;
+* `nome` e `idade` são atributos;
+* `apresentar()` é um método;
+* e `pessoa1` é um **objeto**, criado a partir da classe.
