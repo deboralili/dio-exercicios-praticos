@@ -31,3 +31,14 @@ No exemplo:
 * `contador` e `mostrarMensagem()` são **membros estáticos**, pertencem à classe;
 * não precisamos criar um `new ExemploStatic()` para usá-los;
 * podemos acessá-los diretamente pelo nome da classe.
+
+## 💡 Dica rápida
+
+Use `static` para valores e comportamentos **compartilhados por todas as instâncias** da classe. </br>
+Por exemplo, contadores, constantes (`final static`) ou métodos utilitários (como os da classe `Math`).
+
+Mas cuidado ⚠️ — o uso excessivo de `static` pode **dificultar a manutenção e os testes** do código.
+
+## 📚 Mais sobre o assunto
+
+🔗 [Documentação oficial — static (Oracle)](https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html)
